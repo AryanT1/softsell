@@ -1,6 +1,6 @@
 'use client';
 
-import { ChatBubbleBottomCenterIcon, ChatBubbleLeftEllipsisIcon, XMarkIcon } from '@heroicons/react/24/outline';
+import { ChatBubbleLeftEllipsisIcon, XMarkIcon } from '@heroicons/react/24/outline';
 import { useState, useRef, useEffect } from 'react';
 
 type Message = {
